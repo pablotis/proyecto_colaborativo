@@ -7,3 +7,5 @@ saludar_persona <- function(nombre_persona){
 }
 
 saludar_persona("PAblo")
+
+### Segunda función
